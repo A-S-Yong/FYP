@@ -1,0 +1,7 @@
+{
+  "crop_size": 598,
+  "padding_pixels": 50,
+  "final_size": 224,
+  "val_ratio": 0.15,
+  "random_seed": 42
+}
