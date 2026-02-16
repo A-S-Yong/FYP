@@ -1,4 +1,13 @@
 # Model files (too large for GitHub)
 *.keras
 *.h5
-processed_data_v2/models/
+
+# Mac system files
+.DS_Store
+
+# Processed data directories and images
+*.png
+*.jpg
+*.jpeg
+*.dcm
+*.npy
