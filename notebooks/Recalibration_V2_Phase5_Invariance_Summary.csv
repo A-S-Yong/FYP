@@ -1,0 +1,4 @@
+,Val Acc,Val AUC,Sensitivity,Specificity,Status
+Light (Baseline),0.4903,0.4396,0.5625,0.3982,STABLE
+Medium,0.5603,0.4786,1.0,0.0,DEGENERATE (All-Malignant)
+Heavy,0.5603,0.4823,0.9861,0.0177,DEGENERATE (Trace Specificity)
