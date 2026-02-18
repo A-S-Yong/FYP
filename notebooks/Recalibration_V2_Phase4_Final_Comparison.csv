@@ -1,0 +1,4 @@
+,Val Acc,Val AUC,Sensitivity,Specificity,Status
+Minimal (1.05),0.4397,0.4105,0.0,1.0,Degenerate (All-Benign)
+Soft (1.10),0.4397,0.4154,0.0,1.0,Degenerate (All-Benign)
+Moderate (1.15),0.4903,0.4396,0.5625,0.3982,STABLE ANCHOR
