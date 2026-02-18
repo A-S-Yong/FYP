@@ -1,0 +1,4 @@
+,Sens,Spec,Status
+Minimal (1.08),0.0,1.0,All-Benign Collapse
+Soft (1.12),1.0,0.0,All-Malignant Collapse
+Moderate (1.20),1.0,0.0,All-Malignant Collapse
