@@ -1,0 +1,2 @@
+,Train Acc,Val Acc,Gap,Val AUC,Sensitivity,Specificity
+Step 7.3 (Batch Normalization),0.5777568221092224,0.5525291562080383,0.025227665901184082,0.606102466583252,1.0,0.0
