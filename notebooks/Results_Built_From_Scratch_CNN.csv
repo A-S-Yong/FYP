@@ -1,0 +1,4 @@
+Metric,Standard (80% Train),Ultimate (100% Train+Val)
+AUC-ROC,0.6096,0.6504
+Sensitivity,0.669,0.6483
+Specificity,0.4719,0.5584
